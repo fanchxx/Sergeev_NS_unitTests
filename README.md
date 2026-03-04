@@ -1,1 +1,1 @@
-!(ivanov)[k.jpg]
+![ivanov](k.jpg)
