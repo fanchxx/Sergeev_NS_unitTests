@@ -1,0 +1,11 @@
+C:\Users\stud7korp2\Desktop\classlib\bin\Debug\net8.0\classlib.deps.json
+C:\Users\stud7korp2\Desktop\classlib\bin\Debug\net8.0\classlib.dll
+C:\Users\stud7korp2\Desktop\classlib\bin\Debug\net8.0\classlib.pdb
+C:\Users\stud7korp2\Desktop\classlib\obj\Debug\net8.0\classlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud7korp2\Desktop\classlib\obj\Debug\net8.0\classlib.AssemblyInfoInputs.cache
+C:\Users\stud7korp2\Desktop\classlib\obj\Debug\net8.0\classlib.AssemblyInfo.cs
+C:\Users\stud7korp2\Desktop\classlib\obj\Debug\net8.0\classlib.csproj.CoreCompileInputs.cache
+C:\Users\stud7korp2\Desktop\classlib\obj\Debug\net8.0\classlib.dll
+C:\Users\stud7korp2\Desktop\classlib\obj\Debug\net8.0\refint\classlib.dll
+C:\Users\stud7korp2\Desktop\classlib\obj\Debug\net8.0\classlib.pdb
+C:\Users\stud7korp2\Desktop\classlib\obj\Debug\net8.0\ref\classlib.dll
